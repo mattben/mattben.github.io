@@ -1,0 +1,5 @@
+*.hyde_deps
+*.DS_Store
+*.swp
+*.swo
+*.php
