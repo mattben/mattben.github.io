@@ -33,6 +33,6 @@ title: Davis
 <tbody><tr>
 <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 </tr><tr>
-<td>F 13</td><td>ECS 260</td><td>Software Engineering</td><td>-</td><td>4</td>
+<td>F 13</td><td>ECS 260</td><td><a href="https://github.com/mattben/UCDavis/wiki/ECS260">Software Engineering</a></td><td>-</td><td>4</td>
 </tr></table>
 </td></tr></table>
