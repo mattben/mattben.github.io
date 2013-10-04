@@ -23,7 +23,6 @@ title: mattben
 </style>
 
 {% include hero.html %}
-<div class="span16">
   <div class="span4">
     <center>
       <h2>LLNL</h2>
@@ -50,4 +49,3 @@ title: mattben
       <p><a class="btn" href="social.html">View details &raquo;</a></p>
     </center>
   </div>
-</div>
