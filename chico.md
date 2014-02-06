@@ -111,137 +111,154 @@ title: Chico
 
 ### [Grades]()
 
-<table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">
-<tbody><tr><td>
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Description</td>
-</tr><tr>
-<td> Spring 09 </td><td><a target="_blank" href="media/pdf/UnofficialTranscript.pdf">Dean's List </a></td>
-</tr><tr>
-<td> F 10 - S 11 </td><td> <a target="_blank" href="http://www.csuchico.edu/eop/about/honor.shtml">EOP Honors</a> for the academic year</td>
-</tr><tr>
-<td> Summer 10 </td><td> <a target="_blank" href="http://www.auctiva.com/about/aboutus.aspx">Auctiva</a> Internship</td>
-</tr><tr>
-<td> S11 - S12 </td><td> <a target="_blank" href="http://www.llnl.gov">Lawrence Livermore National Laboratory</a> Internship </td>
-</tr><tr>
-<td> Spring 12 </td><td><a target="_blank" href="media/pdf/Deans_List_S2012.pdf">Dean's List </a> </td>
-</tr><tr>
-<td>Cumulative </td><td> GPA 3.213</td>
-</tr></tbody></table>
-</td><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>S 09</td><td>CSCI 101</td><td>Intro Comp Sci</td><td>A</td><td>3</td>
-</tr><tr>
-<td>S 09</td><td>CSCI 111</td><td>Algorithms I / Java</td><td>A</td><td>4</td>
-</tr><tr>
-<td>S 09</td><td>CSCI 301</td><td>Computer's Impact</td><td>A</td><td>3</td>
-</tr><tr>
-<td>S 09</td><td>MUSC 112</td><td>South American Drumming</td><td>A</td><td>1</td>
-</tr><tr>
-<td>S 09</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
-</tr><tr>
-<td>S 09</td><td>MUSC 411D</td><td>Symphonic Wind Ensemble</td><td>A</td><td>1</td>
-</tr></tbody></table>
-</td></tr><tr><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>F 09</td><td>CSCI 211</td><td>Algorithms II / C++</td><td>A-</td><td>4</td>
-</tr><tr>
-<td>F 09</td><td>CSCI 221</td><td>Assembly</td><td>B</td><td>3</td>
-</tr><tr>
-<td>F 09</td><td>MATH 217</td><td>Discrete</td><td>B</td><td>3</td>
-</tr><tr>        
-<td>F 09</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
-</tr><tr>
-<td>F 09</td><td>PHIL 370</td><td>Philosophy of Science</td><td>B+</td><td>3</td>
-</tr><tr>
-<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
-</tr></tbody></table>
-</td><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>S 10</td><td>CINS 370</td><td>Intro to Databases</td><td>B</td><td>3</td>
-</tr><tr>
-<td>S 10</td><td>CSCI 311</td><td>Algorithms III / C++</td><td>B</td><td>4</td>
-</tr><tr>
-<td>S 10</td><td>CSCI 344</td><td>Shell Programming</td><td>B</td><td>3</td>
-</tr><tr>
-<td>S 10</td><td>MATH 314</td><td>Prob &amp; Sat</td><td>C+</td><td>4</td>
-</tr><tr>
-<td>S 10</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
-</tr><tr>
-<td>S 10</td><td>NSCI 102</td><td>Intro to Living Systems</td><td>B-</td><td>3</td>
-</tr></tbody></table>
-</td></tr><tr><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>F 10</td><td>CSCI 346</td><td>Intro to Networking</td><td>B</td><td>3</td>
-</tr><tr>
-<td>F 10</td><td>CSCI 430</td><td>Software Engineering</td><td>C+</td><td>3</td>
-</tr><tr>
-<td>F 10</td><td>CSCI 465</td><td>Web Programming</td><td>A</td><td>3</td>
-</tr><tr>
-<td>F 10</td><td>EECE 320</td><td>System Architecture</td><td>C</td><td>3</td>
-</tr><tr>
-<td>F 10</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
-</tr><tr>
-<td>F 10</td><td>CSCI 400</td><td>ACM Programming</td><td>CR</td><td>1</td>				
-</tr></tbody></table>
-</td><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>S 11</td><td>&nbsp; </td><td>Industry Internship - LLNL</td><td>&nbsp; </td><td>&nbsp; </td>
-</tr><tr>
-<td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
-</tr><tr>
-<td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
-</tr><tr>
-<td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
-</tr><tr>                
-<td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
-</tr><tr>
-<td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
-</tr></tbody></table>
-</td></tr><tr><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>F 11</td><td>CSCI 389</td><td>Industry Internship</td><td>CR</td><td>3</td>				
-</tr><tr>
-<td>F 11</td><td>CSCI 490</td><td>Directed Programming Experience</td><td>A</td><td>3</td>
-</tr><tr>
-<td>F 11</td><td>CSCI 580</td><td>Artifical Inelligence</td><td>C+</td><td>3</td>
-</tr><tr>				
-<td>F 11</td><td>GEOG 105</td><td>California Cultural Landscapes</td><td>B-</td><td>3</td>
-</tr><tr>
-<td>F 11</td><td>MATH 315</td><td>Statistical Methods I</td><td>B</td><td>3</td>
-</tr></tbody></table>
-</td><td nowrap="nowrap">
-<table cellpadding="3" cellspacing="3">
-<tbody><tr>
-<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
-</tr><tr>
-<td>S 12</td><td>CSCI 340</td><td>Operating Sysems Programming</td><td>A</td><td>4</td>
-</tr><tr>				
-<td>S 12</td><td>CSCI 515</td><td>Compiler Design</td><td>B+</td><td>3</td>
-</tr><tr>
-<td>S 12</td><td>CSCI 431</td><td>Software Engineering Tools</td><td>A</td><td>3</td>
-</tr><tr>
-<td>S 12</td><td>CSCI 550</td><td>Theory of Computing</td><td>A</td><td>3</td>				
-</tr><tr>                
-<td>S 12</td><td>CINS 448</td><td>Computer Security</td><td>A-</td><td>3</td>
-</tr></tbody></table>
-</td></tr></tbody></table>
+<table border="1" frame="box" width="100%" class="table">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>When</td><td>Description</td>
+          </tr><tr>
+          <td> Spring 09 </td><td><a target="_blank" href="media/pdf/UnofficialTranscript.pdf">Dean's List </a></td>
+          </tr><tr>
+          <td> F 10 - S 11 </td><td> <a target="_blank" href="http://www.csuchico.edu/eop/about/honor.shtml">EOP Honors</a> for the academic year</td>
+          </tr><tr>
+          <td> Summer 10 </td><td> <a target="_blank" href="http://www.auctiva.com/about/aboutus.aspx">Auctiva</a> Internship</td>
+          </tr><tr>
+          <td> S11 - S12 </td><td> <a target="_blank" href="http://www.llnl.gov">Lawrence Livermore National Laboratory</a> Internship </td>
+          </tr><tr>
+          <td> Spring 12 </td><td><a target="_blank" href="media/pdf/Deans_List_S2012.pdf">Dean's List </a> </td>
+          </tr><tr>
+          <td>Cumulative </td><td> GPA 3.213</td>
+        </tr>
+      </table>
+      </td><td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>S 09</td><td>CSCI 101</td><td>Intro Comp Sci</td><td>A</td><td>3</td>
+          </tr><tr>
+          <td>S 09</td><td>CSCI 111</td><td>Algorithms I / Java</td><td>A</td><td>4</td>
+          </tr><tr>
+          <td>S 09</td><td>CSCI 301</td><td>Computer's Impact</td><td>A</td><td>3</td>
+          </tr><tr>
+          <td>S 09</td><td>MUSC 112</td><td>South American Drumming</td><td>A</td><td>1</td>
+          </tr><tr>
+          <td>S 09</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
+          </tr><tr>
+          <td>S 09</td><td>MUSC 411D</td><td>Symphonic Wind Ensemble</td><td>A</td><td>1</td>
+        </tr>
+      </table>
+    </td>
+    </tr><tr>
+    <td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>F 09</td><td>CSCI 211</td><td>Algorithms II / C++</td><td>A-</td><td>4</td>
+          </tr><tr>
+          <td>F 09</td><td>CSCI 221</td><td>Assembly</td><td>B</td><td>3</td>
+          </tr><tr>
+          <td>F 09</td><td>MATH 217</td><td>Discrete</td><td>B</td><td>3</td>
+          </tr><tr>        
+          <td>F 09</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
+          </tr><tr>
+          <td>F 09</td><td>PHIL 370</td><td>Philosophy of Science</td><td>B+</td><td>3</td>
+          </tr><tr>
+          <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+        </tr>
+      </table>
+      </td><td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>S 10</td><td>CINS 370</td><td>Intro to Databases</td><td>B</td><td>3</td>
+          </tr><tr>
+          <td>S 10</td><td>CSCI 311</td><td>Algorithms III / C++</td><td>B</td><td>4</td>
+          </tr><tr>
+          <td>S 10</td><td>CSCI 344</td><td>Shell Programming</td><td>B</td><td>3</td>
+          </tr><tr>
+          <td>S 10</td><td>MATH 314</td><td>Prob &amp; Sat</td><td>C+</td><td>4</td>
+          </tr><tr>
+          <td>S 10</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
+          </tr><tr>
+          <td>S 10</td><td>NSCI 102</td><td>Intro to Living Systems</td><td>B-</td><td>3</td>
+        </tr>
+      </table>
+    </td>
+    </tr><tr>
+    <td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>F 10</td><td>CSCI 346</td><td>Intro to Networking</td><td>B</td><td>3</td>
+          </tr><tr>
+          <td>F 10</td><td>CSCI 430</td><td>Software Engineering</td><td>C+</td><td>3</td>
+          </tr><tr>
+          <td>F 10</td><td>CSCI 465</td><td>Web Programming</td><td>A</td><td>3</td>
+          </tr><tr>
+          <td>F 10</td><td>EECE 320</td><td>System Architecture</td><td>C</td><td>3</td>
+          </tr><tr>
+          <td>F 10</td><td>MUSC 411C</td><td>Pep Band</td><td>A</td><td>1</td>
+          </tr><tr>
+          <td>F 10</td><td>CSCI 400</td><td>ACM Programming</td><td>CR</td><td>1</td>				
+        </tr>
+      </table>
+      </td><td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>S 11</td><td>&nbsp; </td><td>Industry Internship - LLNL</td><td>&nbsp; </td><td>&nbsp; </td>
+          </tr><tr>
+          <td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
+          </tr><tr>
+          <td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
+          </tr><tr>
+          <td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
+          </tr><tr>                
+          <td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
+          </tr><tr>
+          <td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td><td>&nbsp; </td>
+        </tr>
+      </table>
+    </td>
+    </tr><tr>
+    <td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>F 11</td><td>CSCI 389</td><td>Industry Internship</td><td>CR</td><td>3</td>				
+          </tr><tr>
+          <td>F 11</td><td>CSCI 490</td><td>Directed Programming Experience</td><td>A</td><td>3</td>
+          </tr><tr>
+          <td>F 11</td><td>CSCI 580</td><td>Artifical Inelligence</td><td>C+</td><td>3</td>
+          </tr><tr>				
+          <td>F 11</td><td>GEOG 105</td><td>California Cultural Landscapes</td><td>B-</td><td>3</td>
+          </tr><tr>
+          <td>F 11</td><td>MATH 315</td><td>Statistical Methods I</td><td>B</td><td>3</td>
+        </tr>
+      </table>
+      </td><td nowrap="nowrap">
+      <table>
+        <tr>
+          <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
+          </tr><tr>
+          <td>S 12</td><td>CSCI 340</td><td>Operating Sysems Programming</td><td>A</td><td>4</td>
+          </tr><tr>				
+          <td>S 12</td><td>CSCI 515</td><td>Compiler Design</td><td>B+</td><td>3</td>
+          </tr><tr>
+          <td>S 12</td><td>CSCI 431</td><td>Software Engineering Tools</td><td>A</td><td>3</td>
+          </tr><tr>
+          <td>S 12</td><td>CSCI 550</td><td>Theory of Computing</td><td>A</td><td>3</td>				
+          </tr><tr>                
+          <td>S 12</td><td>CINS 448</td><td>Computer Security</td><td>A-</td><td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
