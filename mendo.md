@@ -38,7 +38,7 @@ img.project-icon {
 ---
 
 ###[Grades]()
-While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_High) I had to take some college PE classes to use [Mendocino College](http://mendocino.edu") facilities.
+#####While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_High) I had to take some college PE classes to use [Mendocino College](http://mendocino.edu") facilities.
 
 <table  border="1" frame="box" width="100%" class="table">
 	<tr>
@@ -86,7 +86,7 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 		<td width="525">
 			<table>
 				<tr>
-					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					<td>&nbsp;</td><td>&nbsp;</td><td width="300">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
@@ -310,7 +310,7 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 		<td width="525">
 			<table>
 				<tr>
-					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					<td>&nbsp;</td><td>&nbsp;</td><td width="300">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
@@ -334,11 +334,10 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 	</tr>
 </table>
 
-<p>
-I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO. Due to a death in the family I withdrew from the school and moved home to help out. While there, I finished up some more GE courses at Mendocino College.
-</p>
+#####I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO. Due to a death in the family I withdrew from the school and moved home to help out. While there, I finished up some more GE courses at Mendocino College.
 
-<table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">	
+
+<table  border="1" frame="box" width="100%" class="table">	
 	<tr>
 		<td width="525">
 			<table>
@@ -362,7 +361,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 		<td width="525">
 			<table>
 				<tr>
-					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+					<td>&nbsp;</td><td>&nbsp;</td><td width="300">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
