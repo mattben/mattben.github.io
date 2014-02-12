@@ -60,15 +60,11 @@ img.project-icon {
 
 ---
 
-###[Posters]()
-
-* Mentored [Ben Carlsson](https://github.com/skoh-fley) for the [Webshooter project](https://github.com/aims-group/webshooter) (<a href="media/pdf/webshooter.pdf" target="_blank">poster</a>)
+###[Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
 
 ---
 
-###[Presentations]()
-
-*
+###[Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
 
 ---
 

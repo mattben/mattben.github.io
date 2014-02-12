@@ -40,10 +40,10 @@ img.project-icon {
 ###[Grades]()
 While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_High) I had to take some college PE classes to use [Mendocino College](http://mendocino.edu") facilities.
 
-<table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">
+<table  border="1" frame="box" width="100%" class="table">
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>							
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -56,7 +56,7 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -71,7 +71,7 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -84,7 +84,7 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
@@ -99,12 +99,12 @@ While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_Hi
 	</tr>
 </table>
 
-Once I graduated high school in 2001 I attempted to continue my football carrer at [College of the Redwoods](http://www.redwoods.edu/)
+#####Once I graduated high school in 2001 I attempted to continue my football carrer at [College of the Redwoods](http://www.redwoods.edu/)
 
-<table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">
+<table border="1" frame="box" width="100%" class="table">
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -126,7 +126,7 @@ Once I graduated high school in 2001 I attempted to continue my football carrer 
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Status</td><td width="300">Description</td><td>GPA</td><td>Units</td>
 				</tr>
@@ -150,12 +150,12 @@ Once I graduated high school in 2001 I attempted to continue my football carrer 
 	</tr>
 </table>
 
-Mid-season I blew out my ankle, moved home, and finished junior college at [Mendocino College](http://mendocino.edu")
+#####Mid-season I blew out my ankle, moved home, and finished junior college at [Mendocino College](http://mendocino.edu")
 
-<table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">
+<table border="1" frame="box" width="100%" class="table">
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>							
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -186,7 +186,7 @@ Mid-season I blew out my ankle, moved home, and finished junior college at [Mend
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -219,7 +219,7 @@ Mid-season I blew out my ankle, moved home, and finished junior college at [Mend
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -250,7 +250,7 @@ Mid-season I blew out my ankle, moved home, and finished junior college at [Mend
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -283,7 +283,7 @@ Mid-season I blew out my ankle, moved home, and finished junior college at [Mend
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>							
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -308,7 +308,7 @@ Mid-season I blew out my ankle, moved home, and finished junior college at [Mend
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
@@ -341,7 +341,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 <table cellpadding="3" cellspacing="3" border="1" frame="box" width="100%" class="box">	
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -360,7 +360,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
 				</tr>
@@ -381,7 +381,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -391,7 +391,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -403,7 +403,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -419,7 +419,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -437,7 +437,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 	</tr>
 	<tr>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
 				</tr>
@@ -456,7 +456,7 @@ I graduated with a AS in Mathmatics in S 04 and attempted to continue my college
 			</table>
 		</td>
 		<td width="525">
-			<table cellpadding="3" cellspacing="3">
+			<table>
 				<tr>
 					<td>&nbsp;</td><td>&nbsp;</td><td width="300">Description</td><td>Count</td><td>&nbsp;</td>
 				</tr>
