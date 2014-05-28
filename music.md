@@ -8,7 +8,7 @@ title: Music
 <hr>
 
 <table  border="1" frame="box" width="100%" class="table">
-  <tr><td>Where   <td></td> What                    <td></td>When           <td></td> Conductor
+  <tr><td>Where   <td></td> What                    <td></td>When           <td></td> Conductor </td></tr>
   <tr><td>CSU Chico       <td></td> Pep Band                <td></td> 1/09 - 5/12   <td></td> Robert Delgardo</td></tr>
   <tr><td>CSU Chico       <td></td> South American Drumming <td></td> 1/09 - 5/09   <td></td> Tino Marrufo</td></tr>
   <tr><td>CSU Chico       <td></td> Symphonic Wind Ensemble <td></td> 1/09 - 5/09   <td></td> Dr. Royce Tevis</td></tr>
