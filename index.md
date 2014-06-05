@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mattben
+title: Home
 ---
 
 <style type="text/css">
