@@ -65,7 +65,7 @@ title: Chico
 ---
 
 ####Chico State Linux User Group : [BlitzBuild](http://www.ecst.csuchico.edu/BlitzBuild/)
-#####GitHub: [Source](hhttps://github.com/cslug/blitzbuild), [Issues](https://github.com/cslug/blitzbuild/issues)
+#####GitHub: [Source](https://github.com/cslug/blitzbuild), [Issues](https://github.com/cslug/blitzbuild/issues)
 
 <img src="media/images/build.jpg" class="project-icon" />
 
