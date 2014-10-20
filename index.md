@@ -37,7 +37,7 @@ title: Home
       <center>
       <h2>CSU Chico</h2>
       <img src="media/images/chico.jpg" class="thumbnail" />
-      <p>Gaduated with my BS in Computer Science with a minor of mathmatics from CSU Chico </p>
+      <p>Graduated with my BS in Computer Science and minor in Mathematics from CSU Chico </p>
       <p><a class="btn" href="chico.html">View details &raquo;</a></p>
       </center>
     </div>
