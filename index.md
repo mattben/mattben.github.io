@@ -28,17 +28,17 @@ title: Home
     <div class="span4">
       <center>
       <h2>LLNL</h2>
-      <img src="media/images/llnl.jpg" class="thumbnail" />
+      <img src="media/images/llnl-blue.png" class="thumbnail" />
       <p>Currently employed at Lawrence Livermore National Laboratory as a <i>Computer Scientist / Math Programmer</i></p>
       <p><a class="btn" href="llnl.html">View details</a></p>
       </center>
     </div>
     <div class="span4">
       <center>
-      <h2>UC Davis</h2>
-      <img src="media/images/davis.jpg" class="thumbnail" />
-      <p>Currently enrolled in the graduate program at the University of California, Davis </p>
-      <p><a class="btn" href="davis.html">View details &raquo;</a></p>
+      <h2>CSU Chico</h2>
+      <img src="media/images/chico.jpg" class="thumbnail" />
+      <p>Graduated with my BS in Computer Science and minor in Mathematics from CSU Chico </p>
+      <p><a class="btn" href="chico.html">View details &raquo;</a></p>
       </center>
     </div>
     <div class="span4">
