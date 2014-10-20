@@ -35,10 +35,10 @@ title: Home
     </div>
     <div class="span4">
       <center>
-      <h2>UC Davis</h2>
-      <img src="media/images/davis.jpg" class="thumbnail" />
-      <p>Currently enrolled in the graduate program at the University of California, Davis </p>
-      <p><a class="btn" href="davis.html">View details &raquo;</a></p>
+      <h2>CSU Chico</h2>
+      <img src="media/images/chico.jpg" class="thumbnail" />
+      <p>Gaduated with my BS in Computer Science with a minor of mathmatics from CSU Chico </p>
+      <p><a class="btn" href="chico.html">View details &raquo;</a></p>
       </center>
     </div>
     <div class="span4">
