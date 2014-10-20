@@ -27,7 +27,7 @@ title: Davis
         </tr><tr>
           <td> Summer 13 </td><td>LLNL approves the payment of my upper education.</td>
         </tr><tr>
-          <td> Fall 13 </td><td> Begining my Masters through open campus</td>
+          <td> Fall 13 </td><td> Trying open campus</td>
         </tr>
       </table>
     </td>
