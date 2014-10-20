@@ -28,7 +28,7 @@ title: Home
     <div class="span4">
       <center>
       <h2>LLNL</h2>
-      <img src="media/images/llnl.jpg" class="thumbnail" />
+      <img src="media/images/llnl-blue.png" class="thumbnail" />
       <p>Currently employed at Lawrence Livermore National Laboratory as a <i>Computer Scientist / Math Programmer</i></p>
       <p><a class="btn" href="llnl.html">View details</a></p>
       </center>
