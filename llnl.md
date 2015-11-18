@@ -60,6 +60,7 @@ img.project-icon {
 
 ###[Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
 ###[Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
+###[Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
 
 <div class="span12" stlye="margin-bottom:25px">
   <img src="media/images/avatar_mattben.png" style="float:left; margin: 0px 25px 25px -20px"/>
