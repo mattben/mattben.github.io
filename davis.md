@@ -21,18 +21,7 @@ title: Davis
 <table  border="1" frame="box" width="100%" class="table">
   <tr>
     <td>
-      <table>
-        <tr>
-          <td>When</td><td>Description</td>
-        </tr><tr>
-          <td> Summer 13 </td><td>LLNL approves the payment of my upper education.</td>
-        </tr><tr>
-          <td> Fall 13 </td><td> Trying open campus</td>
-        </tr>
-      </table>
-    </td>
-    <td nowrap="nowrap">
-      <table>
+     <table>
         <tr>
           <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
         </tr><tr>
@@ -40,5 +29,8 @@ title: Davis
         </tr>
       </table>
     </td>
+    <td nowrap="nowrap">
+    &nbsp;
+     </td>
   </tr>
 </table>
