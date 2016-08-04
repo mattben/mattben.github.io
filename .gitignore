@@ -4,3 +4,4 @@
 *.swo
 *.php
 _site
+.idea/

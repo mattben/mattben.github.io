@@ -58,9 +58,13 @@ img.project-icon {
 * Contributed to the [usage project](https://github.com/UV-CDAT/usage)
 * Supported [project-site](http://aims.llnl.gov/uvcdat-site) (beta), and [support-site](http://askbot-uvcdat.llnl.gov)
 
-###[Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
-###[Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
-###[Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
+---
+
+####[Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
+
+####[Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
+
+####[Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
 
 <div class="span12" stlye="margin-bottom:25px">
   <img src="media/images/avatar_mattben.png" style="float:left; margin: 0px 25px 25px -20px"/>
