@@ -30,9 +30,9 @@ title: Chico
 </div>
 <br/>
 
-###[Projects]()
+### [Projects]()
 
-####Senior Project : getNote
+#### Senior Project : getNote
 ##### GitHub: [Source](http://www.github.com/mattben/getNoteAndroid), [Issues](http://www.github.com/mattben/getNoteAndroid/issues)
 <img src="media/images/getnote_logo.png" class="project-icon" />
 
@@ -47,16 +47,16 @@ title: Chico
 
 ---
 
-####Web Development : [notezilla](http://www.getnote.org) (now getNote)
-#####GitHub: [Source](http://www.github.com/mattben/getNote.org), [Issues](http://www.github.com/mattben/getNote.org/issues)
+#### Web Development : [notezilla](http://www.getnote.org) (now getNote)
+##### GitHub: [Source](http://www.github.com/mattben/getNote.org), [Issues](http://www.github.com/mattben/getNote.org/issues)
 <img src="media/images/notezilla_logo.png" class="project-icon" />
 
 * <a href="media/pdf/465_Milestone7.pdf" target="_blank">Documentation</a>
 
 ---
 
-####Chico State Linux User Group : [CSLUG](http://www.ecst.csuchico.edu/cslug/)
-#####GitHub: [Source](https://github.com/cslug/cslug-site), [Issues](https://github.com/cslug/cslug-site/issues)
+#### Chico State Linux User Group : [CSLUG](http://www.ecst.csuchico.edu/cslug/)
+##### GitHub: [Source](https://github.com/cslug/cslug-site), [Issues](https://github.com/cslug/cslug-site/issues)
 
 <img src="media/images/cslug_logo.png" class="project-icon" />
 
@@ -64,8 +64,8 @@ title: Chico
 
 ---
 
-####Chico State Linux User Group : [BlitzBuild](http://www.ecst.csuchico.edu/BlitzBuild/)
-#####GitHub: [Source](https://github.com/cslug/blitzbuild), [Issues](https://github.com/cslug/blitzbuild/issues)
+#### Chico State Linux User Group : [BlitzBuild](http://www.ecst.csuchico.edu/BlitzBuild/)
+##### GitHub: [Source](https://github.com/cslug/blitzbuild), [Issues](https://github.com/cslug/blitzbuild/issues)
 
 <img src="media/images/build.jpg" class="project-icon" />
 
@@ -73,7 +73,7 @@ title: Chico
 
 ---
 
-####Databases : library
+#### Databases : library
 <img src="media/images/370_OMD.jpg" class="project-icon" />
 
 * <a href="media/pdf/370_ImplementationPhase.pdf" target="_blank">Documentation</a>
@@ -82,7 +82,7 @@ title: Chico
 ---
 
 ### [Clubs]()
-####Upsilon Pi Epsilon : [UPE](http://upe.acm.org)
+#### Upsilon Pi Epsilon : [UPE](http://upe.acm.org)
 <img src="media/images/upe.jpeg" class="project-icon" />
 
 * International honor society in the Computing and Information Disciplines
@@ -93,7 +93,7 @@ title: Chico
 
 ---
 
-####Chico State Linux User Group : [CSLUG](http://www.ecst.csuchico.edu/cslug/)
+#### Chico State Linux User Group : [CSLUG](http://www.ecst.csuchico.edu/cslug/)
 <img src="media/images/cslug_logo.png" class="project-icon" />
 
 * Currently [Alumnus](http://www.ecst.csuchico.edu/cslug/?members)
@@ -102,7 +102,7 @@ title: Chico
 
 ---
 
-####Chico State Pep Band
+#### Chico State Pep Band
 <img src="media/images/chicostate.png" class="project-icon" />
 
 * Percussion (crash cymbols)

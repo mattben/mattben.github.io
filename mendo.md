@@ -28,8 +28,11 @@ img.project-icon {
   <h1> <a target="_blank" href="http://mendocino.edu">Mendocino College</a> </h1>
 </div>
 <br/>
-###[Clubs]()
-####Mathematics Engineering Science Achievement : [MESA](http://www2.mendocino.edu/mesa/)
+
+### [Clubs]()
+
+#### Mathematics Engineering Science Achievement : [MESA](http://www2.mendocino.edu/mesa/)
+
 <img src="media/images/MESA-official.png" class="project-icon"/>
 
 * Currently Alumnus
@@ -37,8 +40,8 @@ img.project-icon {
 
 ---
 
-###[Grades]()
-#####While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_High) I had to take some college PE classes to use [Mendocino College](http://mendocino.edu") facilities.
+### [Grades]()
+##### While in high school at [Ukiah High School](http://www.edline.net/pages/Ukiah_High) I had to take some college PE classes to use [Mendocino College](http://mendocino.edu") facilities.
 
 <table  border="1" frame="box" width="100%" class="table">
 	<tr>
@@ -99,7 +102,7 @@ img.project-icon {
 	</tr>
 </table>
 
-#####Once I graduated high school in 2001 I attempted to continue my football carrer at [College of the Redwoods](http://www.redwoods.edu/)
+##### Once I graduated high school in 2001 I attempted to continue my football carrer at [College of the Redwoods](http://www.redwoods.edu/)
 
 <table border="1" frame="box" width="100%" class="table">
 	<tr>
@@ -150,7 +153,7 @@ img.project-icon {
 	</tr>
 </table>
 
-#####Mid-season I blew out my ankle, moved home, and finished junior college at [Mendocino College](http://mendocino.edu")
+##### Mid-season I blew out my ankle, moved home, and finished junior college at [Mendocino College](http://mendocino.edu")
 
 <table border="1" frame="box" width="100%" class="table">
 	<tr>
@@ -334,7 +337,7 @@ img.project-icon {
 	</tr>
 </table>
 
-#####I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO. Due to a death in the family I withdrew from the school and moved home to help out. While there, I finished up some more GE courses at Mendocino College.
+##### I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO. Due to a death in the family I withdrew from the school and moved home to help out. While there, I finished up some more GE courses at Mendocino College.
 
 
 <table  border="1" frame="box" width="100%" class="table">	

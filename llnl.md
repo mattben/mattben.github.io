@@ -31,8 +31,8 @@ img.project-icon {
 
 ###[Projects]()
 
-####Analytics, Informatics, and Management Systems : [AIMS](http://aims.llnl.gov)
-#####GitHub: [Source](https://github.com/aims-group), [Issues](https://github.com/aims-group/aims-site/issues), [Wiki](http://aims.llnl.gov/wiki)
+#### Analytics, Informatics, and Management Systems : [AIMS](http://aims.llnl.gov)
+##### GitHub: [Source](https://github.com/aims-group), [Issues](https://github.com/aims-group/aims-site/issues), [Wiki](http://aims.llnl.gov/wiki)
 <img src="media/images/aims-logo-small.png" class="project-icon"/>
 
 * Current group
@@ -42,8 +42,8 @@ img.project-icon {
 
 ---
 
-####Earth System Grid Federation : [ESGF](http://esgf.org)
-#####GitHub: [Source](https://github.com/ESGF), [Issues](), [Wiki](), [Support](http://askbot.esgf.org)
+#### Earth System Grid Federation : [ESGF](http://esgf.org)
+##### GitHub: [Source](https://github.com/ESGF), [Issues](), [Wiki](), [Support](http://askbot.esgf.org)
 <img src="media/images/esgf-modeling-small.png" class="project-icon"/>
 
 * Did web development for the [esgf-web-fe](https://github.com/ESGF/esgf-web-fe)
@@ -51,8 +51,8 @@ img.project-icon {
 
 ---
 
-####Ultrascale Visualization Climate Data Analysis Tools : [UVCDAT](http://uv-cdat.llnl.gov)
-#####GitHub: [Source](https://github.com/UV-CDAT), [Issues](https://github.com/UV-CDAT/uvcdat/issues), [Wiki](https://github.com/UV-CDAT/uvcdat/wiki), [Support](http://askbot-uvcdat.llnl.gov)
+#### Ultrascale Visualization Climate Data Analysis Tools : [UVCDAT](http://uv-cdat.llnl.gov)
+##### GitHub: [Source](https://github.com/UV-CDAT), [Issues](https://github.com/UV-CDAT/uvcdat/issues), [Wiki](https://github.com/UV-CDAT/uvcdat/wiki), [Support](http://askbot-uvcdat.llnl.gov)
 <img src="media/images/uv-cdat-logo-small.png" class="project-icon"/>
 
 * Contributed to the [usage project](https://github.com/UV-CDAT/usage)
@@ -60,11 +60,11 @@ img.project-icon {
 
 ---
 
-####[Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
+#### [Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
 
-####[Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
+#### [Presentations](https://github.com/mattben/mattben.github.io/wiki/Presentations)
 
-####[Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
+#### [Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
 
 <div class="span12" stlye="margin-bottom:25px">
   <img src="media/images/avatar_mattben.png" style="float:left; margin: 0px 25px 25px -20px"/>

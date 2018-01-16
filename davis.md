@@ -9,14 +9,14 @@ title: Davis
 </div>
 <br/>
 
-###[Projects]()
+### [Projects]()
 
 ---
 
-###[Clubs]()
+### [Clubs]()
 
 ---
-###[Grades]()
+### [Grades]()
 
 <table  border="1" frame="box" width="100%" class="table">
   <tr>
