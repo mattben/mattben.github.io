@@ -29,7 +29,7 @@ img.project-icon {
 </div>
 <br/>
 
-###[Projects]()
+### [Projects]()
 
 #### Analytics, Informatics, and Management Systems : [AIMS](http://aims.llnl.gov)
 ##### GitHub: [Source](https://github.com/aims-group), [Issues](https://github.com/aims-group/aims-site/issues), [Wiki](http://aims.llnl.gov/wiki)

@@ -20,7 +20,7 @@ title: Davis
 
 <table  border="1" frame="box" width="100%" class="table">
   <tr>
-    <td>
+    <td width="525">
      <table>
         <tr>
           <td>When</td><td>Class</td><td width="300">Description</td><td>Grade</td><td>Units</td>
@@ -29,7 +29,7 @@ title: Davis
         </tr>
       </table>
     </td>
-    <td nowrap="nowrap">
+    <td>
     &nbsp;
      </td>
   </tr>

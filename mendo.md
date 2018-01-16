@@ -337,7 +337,7 @@ img.project-icon {
 	</tr>
 </table>
 
-##### I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO. Due to a death in the family I withdrew from the school and moved home to help out. While there, I finished up some more GE courses at Mendocino College.
+##### I graduated with a AS in Mathmatics in S 04 and attempted to continue my college education at Cal Poly SLO... That didn't go so well, so I moved home and finished up some more GE courses at Mendocino College.
 
 
 <table  border="1" frame="box" width="100%" class="table">	
