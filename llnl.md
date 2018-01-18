@@ -70,7 +70,7 @@ img.project-icon {
   <img src="media/images/avatar_mattben.png" style="float:left; margin: 0px 25px 25px -20px"/>
   <h1> <a target="_blank" href="index.html">mattben</a> </h1>
   <ul>
-	<li><a href="media/pdf/mattben_long.pdf" target="_blank">Resume</a></li>
+	<li><a href="media/pdf/Resume.pdf" target="_blank">Resume</a></li>
 	<li><a href="http://github.com/mattben" target="_blank">GitHub</a></li>
   </ul>
 </div>
