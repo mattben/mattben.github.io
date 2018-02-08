@@ -10,12 +10,7 @@ ul {
 ul ul {
 	margin: 0 0 0 45px;
 }
-hr, h3 {
-	margin-top: 55px;
-}
-h4 {
-	margin-top: -15px;
-}
+
 img.project-icon {
 	border: none;
 	float: left;
@@ -23,42 +18,12 @@ img.project-icon {
 }
 </style>
 
-<div class="span12" stlye="margin-bottom:25px">
-  <img src="media/images/llnl.jpg" style="float:left; margin: 0px 25px 25px -20px"/>
-  <h1> <a target="_blank" href="http://llnl.gov">Lawrence Livermore <br/> National Laboratory</a> </h1>
-</div>
-<br/>
 
-### [Projects]()
-
-#### Analytics, Informatics, and Management Systems : [AIMS](http://aims.llnl.gov)
-##### GitHub: [Source](https://github.com/aims-group), [Issues](https://github.com/aims-group/aims-site/issues), [Wiki](http://aims.llnl.gov/wiki)
-<img src="media/images/aims-logo-small.png" class="project-icon"/>
-
-* Current group
-* Contributed to this [site](https://github.com/aims-group/aims-site)
-* Currently working on a publication tracking [site](https://github.com/aims-group/publications-site)
-* Contributed to the following projects
+# [Lawrence Livermore National Laboratory](http://llnl.gov)
 
 ---
 
-#### Earth System Grid Federation : [ESGF](http://esgf.org)
-##### GitHub: [Source](https://github.com/ESGF), [Issues](), [Wiki](), [Support](http://askbot.esgf.org)
-<img src="media/images/esgf-modeling-small.png" class="project-icon"/>
-
-* Did web development for the [esgf-web-fe](https://github.com/ESGF/esgf-web-fe)
-* Supported [project-site](http://aims.llnl.gov/esgf-site) (beta), and [support-site](http://askbot.esgf.org)
-
----
-
-#### Ultrascale Visualization Climate Data Analysis Tools : [UVCDAT](http://uv-cdat.llnl.gov)
-##### GitHub: [Source](https://github.com/UV-CDAT), [Issues](https://github.com/UV-CDAT/uvcdat/issues), [Wiki](https://github.com/UV-CDAT/uvcdat/wiki), [Support](http://askbot-uvcdat.llnl.gov)
-<img src="media/images/uv-cdat-logo-small.png" class="project-icon"/>
-
-* Contributed to the [usage project](https://github.com/UV-CDAT/usage)
-* Supported [project-site](http://aims.llnl.gov/uvcdat-site) (beta), and [support-site](http://askbot-uvcdat.llnl.gov)
-
----
+#### [Resume](media/pdf/Resume.pdf)
 
 #### [Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
 
@@ -66,12 +31,49 @@ img.project-icon {
 
 #### [Publications](https://github.com/mattben/mattben.github.io/wiki/Publications)
 
-<div class="span12" stlye="margin-bottom:25px">
-  <img src="media/images/avatar_mattben.png" style="float:left; margin: 0px 25px 25px -20px"/>
-  <h1> <a target="_blank" href="index.html">mattben</a> </h1>
-  <ul>
-	<li><a href="media/pdf/Resume.pdf" target="_blank">Resume</a></li>
-	<li><a href="http://github.com/mattben" target="_blank">GitHub</a></li>
-  </ul>
-</div>
+---
+
+#### [Analytics, Informatics, and Management Systems](http://aims.llnl.gov)
+##### GitHub: [Orginization](https://github.com/aims-group)
+<img src="https://aims.llnl.gov/media/images/AIMSlogo2.png" class="project-icon"/>
+
+* [External Site](https://aims.llnl.gov) [source](https://github.com/aims-group/aims-site)
+* [PubHub](https://cmip-publications.llnl.gov/)[source](https://github.com/aims-group/publications-site)
+* Contributed to the following projects
+
+---
+
+#### [Earth System Grid Federation](https://esgf.llnl.gov)
+##### GitHub: [Orginization](https://github.com/ESGF)
+<img src="https://esgf.llnl.gov/media/images/logos/esgf.png" class="project-icon"/>
+
+* [External Site](https://esgf.llnl.gov) [source](https://github.com/ESGF/esgf.github.io)
+* [ICNWG](https://icnwg.llnl.gov/) [source](https://github.com/ESGF/icnwg)
+* [DREAM](https://dream.llnl.gov/) [source](https://github.com/ESGF/dream)
+* [FAQ](http://esgf.github.io/esgf-swt/) [source](https://github.com/ESGF/esgf-swt)
+* [ESGF-WEB-FE](https://github.com/ESGF/esgf-web-fe)
+
+---
+
+#### [Ultrascale Visualization Climate Data Analysis Tools](https://uvcdat.llnl.gov)
+##### GitHub: [Orginization](https://github.com/UV-CDAT)
+<img src="media/images/uv-cdat-logo-small.png" class="project-icon"/>
+
+* [External Site](https://uvcdat.llnl.gov/) [source](https://github.com/UV-CDAT/uvcdat-site)
+* [CDP](https://cdp.llnl.gov) [source](https://github.com/UV-CDAT/cdp-site)
+* [Usage](https://uvcdat-usage.llnl.gov/stats/) [source](https://github.com/UV-CDAT/usage)
+* [vCDAT](https://github.com/UV-CDAT/vcdat)
+* [VCS-widgets](https://github.com/UV-CDAT/VCS-widgets)
+* [VCS-JS](https://github.com/UV-CDAT/vcs-js)
+* [CDATWeb](https://github.com/UV-CDAT/cdatweb)
+
+---
+
+#### [Webshooter Tool Kit](http://webshootertk.github.io/)
+##### GitHub: [Orginization](https://github.com/webshootertk)
+<img src="http://webshootertk.github.io/Data/media/images/web.png" class="project-icon"/>
+
+* [External Site](https://webshootertk.github.io/) [source](https://github.com/webshootertk/webshootertk.github.io)
+* [Webshooter](https://github.com/webshootertk/webshooter)
+* [Webengine](https://github.com/webshootertk/webengine)
 <br/>
