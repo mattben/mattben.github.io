@@ -23,7 +23,7 @@ img.project-icon {
 
 ---
 
-#### [Resume](media/pdf/resume.pdf)
+#### [Resume](media/pdf/Resume.pdf)
 
 #### [Posters](https://github.com/mattben/mattben.github.io/wiki/Posters)
 
