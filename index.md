@@ -29,7 +29,7 @@ title: Home
       <center>
       <h2>LLNL</h2>
       <img src="media/images/llnl-blue.png" class="thumbnail" />
-      <p>Currently employed at Lawrence Livermore National Laboratory as a <i>Computer Scientist / Math Programmer</i></p>
+      <p>LLNL Computer Scientist / Math Programmer</p>
       <p><a class="btn" href="llnl.html">View details</a></p>
       </center>
     </div>
@@ -37,7 +37,7 @@ title: Home
       <center>
       <h2>CSU Chico</h2>
       <img src="media/images/chico.jpg" class="thumbnail" />
-      <p>Graduated with my BS in Computer Science and minor in Mathematics from CSU Chico </p>
+      <p>Bachelor of Science in Computer Science, Minor in Mathematics</p>
       <p><a class="btn" href="chico.html">View details &raquo;</a></p>
       </center>
     </div>
