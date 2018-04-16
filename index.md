@@ -25,7 +25,7 @@ title: Home
 {% include hero.html %}
 <div class="span12">
   <div class="row">
-    <div class="span4">
+    <div class="span6">
       <center>
       <h2>LLNL</h2>
       <img src="media/images/llnl-blue.png" class="thumbnail" />
