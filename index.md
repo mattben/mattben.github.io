@@ -33,7 +33,7 @@ title: Home
       <p><a class="btn" href="llnl.html">View details</a></p>
       </center>
     </div>
-    <div class="span4">
+    <div class="span6">
       <center>
       <h2>CSU Chico</h2>
       <img src="media/images/chico.jpg" class="thumbnail" />
@@ -41,7 +41,8 @@ title: Home
       <p><a class="btn" href="chico.html">View details &raquo;</a></p>
       </center>
     </div>
-    <div class="span4">
+    <!--
+      <div class="span4">
       <center>
       <h2>Internet</h2>
       <img src="media/images/social.jpg" class="thumbnail" />
@@ -49,5 +50,6 @@ title: Home
       <p><a class="btn" href="social.html">View details &raquo;</a></p>
       </center>
     </div>
+  -->
   </div>
 </div>
